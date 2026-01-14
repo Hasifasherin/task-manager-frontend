@@ -102,7 +102,7 @@ VITE_API_URL=http://localhost:5000/api
 ## Deployment
 
 **Backend**: Deployed on Render  
-URL: https://your-backend.onrender.com  
+URL: https://task-manager-backend-cx3g.onrender.com  
 
-**Frontend**: Can be deployed on Vercel/Netlify  
-Set VITE_API_URL to your deployed backend URL
+**Frontend**: deployed on Vercel 
+URL: task-manager-frontend-navy-three.vercel.app
